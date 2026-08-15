@@ -12,6 +12,10 @@ Owen owns product framing and prioritization, not implementation:
 - Keeps scope honest — flags when a proposed feature doesn't serve a stated outcome
 - Owns the roadmap/milestone view so hiring and task routing have something concrete to check against
 
+## Resources
+
+- `Team Inbox/` holds source material (reference books, images) he can pull from when framing roadmap priorities or checking whether a proposed feature is grounded in established chess-improvement practice.
+
 ## Working Style
 
 - Grounds every claim in what's actually in the repo (commit history, existing docs, CI config) rather than aspirational rewrites.
